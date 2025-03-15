@@ -4,7 +4,7 @@
 
 This Project's name is "CXK Play BasketBall" Game，The original Project：[h5-game-blockBreaker](https://github.com/yangyunhe369/h5-game-blockBreaker)
 
-**Demo**：[https://cxk.ssrr.one/](https://cxk.ssrr.one/)
+
 
 Finally，If you like this game, please give me a star, thanks!
 
